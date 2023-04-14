@@ -20,3 +20,7 @@ require_once('../../actions/dbconnect.php');
     </footer>
 </body>
 </html>
+
+
+<?php
+                      
